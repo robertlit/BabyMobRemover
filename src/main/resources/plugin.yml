@@ -1,0 +1,5 @@
+name: BabyMobRemover
+version: ${project.version}
+main: me.robertlit.babymobremover.BabyMobRemover
+api-version: 1.16
+authors: [robertlit]
